@@ -8,8 +8,12 @@ authors:
   - Young
 tags:
   - 生活
+  - 小王子
+  - 玫瑰
+categories:
+  - 生活随笔
 image:
-  filename: featured
+  filename: https://images.pexels.com/photos/1233419/pexels-photo-1233419.jpeg
   focal_point: Smart
   preview_only: false
 ---
