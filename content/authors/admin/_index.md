@@ -6,8 +6,8 @@ bio: My research interests include deep learning, computer vision and artificial
   intellence.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,24 +20,21 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zdyoung0519
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Xi'an Jiaotong University
+    url: http://www.xjtu.edu.cn//
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master in Mathetics and Statics
+      institution: Xi'an Jiaotong University
+      year: 2021
+    - course: Bachelor in Mathematics and Applied Mathematics
+      institution: University of Electronic Science and Technology of China
+      year: 2021
 email: ""
 superuser: true
 highlight_name: true
@@ -46,4 +43,4 @@ Young is a master of mathetics and statics in Xi'an Jiaotong University(XJTU). H
 
 Young是西安交通大学的一名硕士生，主要研究兴趣包括深度学习、计算机视觉和人工智能。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref   "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
